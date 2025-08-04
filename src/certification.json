@@ -1,0 +1,33 @@
+[
+    {
+        "courseName": "Python",
+        "platform": "Coursera",
+        "date": "2024",
+        "credentialURL": "https://www.coursera.org/account/accomplishments/certificate/123456789"
+    },
+    {
+      "courseName": "ASP.NET Development",
+      "platform": "Online Course",
+      "date": "2024",
+      "credentialURL": "https://learn.microsoft.com/en-us/aspnet/core/get-started?view=aspnetcore-9.0"
+    },
+    {
+        "courseName": "Machine Learning with TensorFlow",
+        "platform": "Google Developers",
+        "date": "2023",
+        "credentialURL": "https://developers.google.com/certification/ML123456789"
+    },
+    {
+        "courseName": "Artificial Intelligence",
+        "platform": "edX",
+        "date": "2022",
+        "credentialURL": "https://courses.edx.org/certificates/123456789"
+      },
+      {
+        "courseName": "Data Analyst",
+        "platform": "DataCamp",
+        "date": "2023",
+        "credentialURL": "https://www.datacamp.com/certificate/123456789"
+      }
+  ]
+ 

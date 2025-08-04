@@ -1,0 +1,18 @@
+
+
+
+[
+    {
+        "title": "Nursery Plant E-Commerce Website",
+        "techStack": ["HTML", "CSS", "JavaScript", "PHP","MYSQL"],
+        "description": "Developed a fully functional e-commerce website",
+        "outcome": "Gained experience in front-end development"
+      },
+      {
+        "title": "Restorunt Booking Website",
+        "techStack": ["HTML", "CSS", "JavaScript","ASP.NET", "MYSQL"],
+        "description": "Built a chatbot for customer support",
+        "outcome": "Improved understanding of ASP.NET"
+      }
+   
+]

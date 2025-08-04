@@ -1,0 +1,29 @@
+{
+  "permanent": {
+    "street": "Momai Krupa",
+    "village": "Biliyala",
+    "taluka": "Gondal",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pin-code": "360311"
+  },
+  "current":
+   {
+    "street": "Momai Krupa",
+    "village": "Biliyala",
+    "taluka": "Gondal",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pin-code": "360311"
+  },
+
+   "correspondenceAddress": 
+   {
+    "street": "Momai Krupa",
+    "village": "Biliyala",
+    "taluka": "Gondal",
+    "city": "Rajkot",
+    "state": "Gujarat",
+    "pin-code": "360311" 
+   }
+}

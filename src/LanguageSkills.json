@@ -1,0 +1,30 @@
+{
+  "spoken": [
+    {
+      "language": "English",
+      "level": "Good"
+    },
+    {
+      "language": "Hindi",
+      "level": "Intermediate"
+    },
+    {
+      "language": "Gujarati",
+      "level": "Excellent"
+    }
+  ],
+  "written": [
+    {
+      "language": "English",
+      "level": "Good"
+    },
+    {
+      "language": "Hindi",
+      "level": "Good"
+    },
+    {
+      "language": "Gujarati",
+      "level": "Excellent"
+    }
+  ]
+}
